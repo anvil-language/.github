@@ -14,7 +14,7 @@ Some resources that I have found useful in my journey I have decided to list bel
 
 1. [The Go Website](https://go.dev)
 2. [Google Gemini](https://gemini.google.com) Yes really, Even it helped.
-3. [Github.com](https://github/com) Because you would be surprised how many languages exist out there.
+3. [Github.com](https://github.com) Because you would be surprised how many languages exist out there.
 
 ## Contributors to the interpreter.
 
