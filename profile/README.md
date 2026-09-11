@@ -15,6 +15,8 @@ Some resources that I have found useful in my journey I have decided to list bel
 1. [The Go Website](https://go.dev)
 2. [Google Gemini](https://gemini.google.com) Yes really, Even it helped.
 3. [Github.com](https://github.com) Because you would be surprised how many languages exist out there.
+4. [Our Website](https://anvil-language.github.io/anvil-lang/)
+5. [Our MAIN REPO](https://github.com/anvil-language/anvil-interpreter) This is the main repo. Not `anvil-lang` but `anvil-interpreter`
 
 ## Contributors to the interpreter.
 
